@@ -1,2 +1,2 @@
 # portfolio
-This is my personal CV
+This is a demo for my personal CV
